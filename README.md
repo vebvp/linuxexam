@@ -1,6 +1,7 @@
 # Linux Practical Examination
 
 **Linux version:** Ubuntu (Debian-based, as identified by apt package manager and Apache/2.4.66 Ubuntu build)
+
 **Brief result/conclusion:** This examination tested various Linux system administration tasks. The executed commands successfully demonstrate basic file operations, user management, file permissions, web server installation (Apache), and text processing using grep. Questions not taught in the course syllabus were intentionally skipped as instructed.
 
 ---
